@@ -1,10 +1,9 @@
-👋 Hi there! I'm a passionate MERN Stack Developer with 1 year of experience in building full-stack web applications.
+👋 Hi there! I'm a passionate Software Developer with 1.9 year of experience in building full-stack web applications.
 
-💻 Tech Stack:
-Frontend: React.js, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-Additional Skills: Java, C, C++, SQL
+💻 Backend Expertise: Core Java, Servlet, JDBC, Hibernate, Maven, Spring Core, Spring MVC, Spring Boot, Microservices
+🎨 Frontend Skills: React.js, Redux, JavaScript, MUI, Tailwind CSS
+🗄️ Databases: MySQL, SQL, MongoDB
+🧰 Tools & Platforms: Git, GitHub, Postman, Maven, IntelliJ IDEA, Eclipse, Spring Tool Suite (STS)
 
 🚀 What I Do:
 Develop and deploy end-to-end web solutions
